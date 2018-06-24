@@ -1,0 +1,6 @@
+classes= 1
+train  = data/train_car.txt
+valid  = data/test_car.txt
+names = data/yolo_car.names
+backup = backup
+results= results
